@@ -1,0 +1,39 @@
+Project 1: AI Portfolio Assistant
+Tech: React, FastAPI, Claude API, JavaScript, Python
+GitHub: https://github.com/yaqubhasan
+- Developed a personal portfolio website with an AI chatbot that answers questions about
+  resume, projects, and technical background.
+- Built a React frontend with sections for projects, technical skills, education, coursework,
+  and contact information.
+- Integrated a FastAPI backend with Claude API to generate personalized responses using
+  resume and project data as context.
+- Used AI-assisted development workflows with Claude to plan, build, debug, and improve
+  the application structure.
+
+Project 2: Fabflix: Full-Stack Database Migration & Web Application
+Tech: Java, MySQL, MongoDB, Tomcat
+GitHub: https://github.com/uci-jherold2-fall25-cs122b/2025-fall-cs-122b-y
+- Migrated a movie database application from MySQL to MongoDB, redesigning schema for
+  NoSQL scalability.
+- Built Java migration tools to transform relational datasets into document-based MongoDB
+  collections.
+- Replaced JDBC with the MongoDB Java driver and implemented authentication, cart, search,
+  and security features.
+
+Project 3: NLP Search Engine with Inverted Indexing
+Tech: Python, Flask, NLTK, BeautifulSoup
+GitHub: https://github.com/nobantahir/NLP_Web_Search_Engine
+- Built a search engine processing large-scale web data using NLP techniques and inverted
+  indexing.
+- Implemented tf-idf ranking, compressed index storage, and optimized retrieval using
+  custom binary search.
+- Designed a memory-efficient partial indexing system to handle large datasets at scale.
+- Developed both CLI and Flask-based web interfaces with millisecond-level query response times.
+
+Project 4: Distributed Web Crawler
+Tech: Python, Multithreading, Networking
+GitHub: https://github.com/Yuanbao2000/Yuanbao2000-cs121_A2Crawler
+- Developed a scalable web crawler to collect and process large volumes of web pages from
+  distributed cache servers.
+- Implemented URL frontier management, filtering, deduplication, and robust HTML parsing logic.
+- Enforced politeness policies and rate limiting to ensure efficient and compliant crawling behavior.

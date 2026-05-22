@@ -1,0 +1,14 @@
+Name: Yaqub Hasan
+Email: yaqubhasann@gmail.com
+LinkedIn: https://linkedin.com/in/yaqub-hasan
+GitHub: https://github.com/yaqubhasan
+
+Education:
+Bachelor of Science in Computer Science
+Graduated: December 2025
+
+Background:
+Yaqub Hasan is a Computer Science graduate who graduated in December 2025. He focuses on
+full-stack web development, databases, search systems, and AI-integrated applications.
+He builds practical software projects and uses AI-assisted development workflows.
+He is actively looking for full-time software engineering roles.

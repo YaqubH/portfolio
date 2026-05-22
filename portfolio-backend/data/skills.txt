@@ -1,0 +1,13 @@
+Technical Skills:
+
+Languages: JavaScript, Python, C/C++, SQL
+
+Frameworks & Tools: React, Node.js, Flask, FastAPI, Docker, Git, Apache Tomcat
+
+Databases: MongoDB, MySQL
+
+AI & Developer Tools: Claude, Claude API, OpenAI API, GitHub Copilot, Prompt Engineering,
+AI-Assisted Development
+
+Concepts: Data Structures & Algorithms, REST APIs, Full-Stack Development,
+Object-Oriented Programming, Retrieval-Augmented Generation

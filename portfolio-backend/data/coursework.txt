@@ -1,0 +1,14 @@
+Education:
+Bachelor of Science in Computer Science
+Graduated: December 2025
+
+Relevant Coursework:
+- Data Structures
+- Computer Organization
+- Computer Systems and Programming
+- Operating Systems
+- Design and Analysis of Algorithms
+- Database Management Systems
+- Software Engineering
+- Linear Algebra
+- Discrete Mathematics
