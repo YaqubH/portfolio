@@ -4,16 +4,6 @@ A personal portfolio website with an integrated AI chatbot that answers question
 
 ---
 
-## Screenshots
-
-> _Add screenshots here once deployed._
-
-| Portfolio Home | Chatbot in Action |
-|---|---|
-| `[screenshot]` | `[screenshot]` |
-
----
-
 ## Features
 
 - **AI Chatbot** — Floating chat UI that sends questions to Claude API and returns grounded, accurate answers about Yaqub's background
