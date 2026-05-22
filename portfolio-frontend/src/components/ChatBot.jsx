@@ -50,7 +50,7 @@ export default function ChatBot() {
         ...prev,
         {
           role: 'error',
-          text: 'Could not reach the assistant. Make sure the backend is running on port 8000.',
+          text: 'Could not reach the assistant. The backend may be waking up. Please try again in a few seconds.',
         },
       ])
     } finally {
