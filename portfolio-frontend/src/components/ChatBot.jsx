@@ -1,7 +1,7 @@
 import { useState, useRef, useEffect } from 'react'
 import { MessageSquare, X, Send, Bot, User, Loader, AlertCircle } from 'lucide-react'
 
-const BACKEND_URL = 'http://localhost:8000'
+const BACKEND_URL = 'https://portfolio-backend-8svt.onrender.com'
 
 const GREETING = "Hi! I'm an AI assistant for Yaqub's portfolio. Ask me anything about his skills, projects, education, or background."
 
